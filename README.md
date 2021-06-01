@@ -1,2 +1,2 @@
 # Graphixgram
-A freelance website for graphic designers.
+A freelance website built for graphic designers.
